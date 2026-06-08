@@ -1,0 +1,13 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/HankHillock/HPST/main/hpst.version",
+  "modVersion":
+    {
+      "major": "1",
+      "minor": "5",
+      "patch": "4"
+    },
+  "modName": "Hillock Prototype and Station Tech Pack",
+  "modThreadId": "29727",
+  "directDownloadURL": "https://github.com/HankHillock/HPST/releases/latest/download/hpst.zip",
+  "changelogURL": "https://raw.githubusercontent.com/HankHillock/HPST/main/changelog.md",
+}
