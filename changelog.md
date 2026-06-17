@@ -1,3 +1,17 @@
+HPST v1.5.5
+
+Anicetus deployment/supply cost increased from 100 -> 140 
+Coast now has Expanded Missile Racks as a built-in hullmod
+Coast max flux increased from 6000 -> 7500
+Coast ship system changed from Missile Autoforge -> Fast Missile Racks
+Eliminator weapon mounts changed from 6x Small Composite 7x Small Ballistic -> 2x Small Missile 4x Small Composite 7x Small Ballistic
+Guillotine hull reduced from 12500 -> 12000
+Hummock ship system changed from Fast Missile Racks -> High Energy Focus
+Tumulus deployment/supply cost increased from 60 -> 85
+Unruly Choir flux per second reduced from 1600 -> 1200
+
+---
+
 HPST v1.5.4
 
 Added version checker support for Lunalib
